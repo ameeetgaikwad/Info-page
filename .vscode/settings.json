@@ -1,0 +1,9 @@
+{
+  "workbench.colorCustomizations": {
+    "[Material Theme High Contrast]": {},
+    "[Material Theme Ocean High Contrast]": {},
+    "activityBar.background": "#2E300A",
+    "titleBar.activeBackground": "#41430F",
+    "titleBar.activeForeground": "#FAFBED"
+  }
+}
