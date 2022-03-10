@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.f490d1ed.css","mappings":"AAAA,EACE,qBACF,CAEA,KACE,wBAAyB,CACzB,UACF","sources":["index.css"],"sourcesContent":["* {\r\n  box-sizing: border-box;\r\n}\r\n\r\nbody {\r\n  background-color: #23252c;\r\n  color: #ffffff;\r\n}\r\n"],"names":[],"sourceRoot":""}
